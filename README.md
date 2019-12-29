@@ -44,6 +44,3 @@
    See the License for the specific language governing permissions and
    limitations under the License.
 ```
-
-### Contributing to Android TensorFlow Lite Machine Learning Example
-Just make pull request. You are in!
